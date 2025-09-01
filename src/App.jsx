@@ -17,7 +17,7 @@ function App() {
     const password = formData.get("password_name");
     console.log(email, password);
   }
-
+  //
   return (
     <section>
       <h1>Sign Up Form</h1>
