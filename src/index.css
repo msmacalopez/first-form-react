@@ -5,3 +5,15 @@
 body {
   background: turquoise;
 }
+form > * {
+  display: block;
+}
+label,
+button {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+fieldset {
+  display: flex;
+  flex-direction: column;
+}
